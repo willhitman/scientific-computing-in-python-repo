@@ -1,6 +1,6 @@
 # 🧮 Scientific Computing in Python
 
-A collection of Python projects developed as part of the [freeCodeCamp.org](https://www.freecodecamp.org/) **Scientific Computing with Python Certification**.  
+A collection of Python projects developed as part of the [freeCodeCamp.org](https://www.freecodecamp.org/) .[Certficate linked](https://www.freecodecamp.org/certification/fccd3623c31-101a-4c47-8bf0-b8374b3111e6/scientific-computing-with-python-v7) **Scientific Computing with Python Certification**.  
 Each project demonstrates foundational Python skills applied to real-world scientific problems.
 
 ---
